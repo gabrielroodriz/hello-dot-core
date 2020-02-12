@@ -1,0 +1,11 @@
+C:\Users\grsouza\Documents\Modelos\NetCore\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.exe
+C:\Users\grsouza\Documents\Modelos\NetCore\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.deps.json
+C:\Users\grsouza\Documents\Modelos\NetCore\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.runtimeconfig.json
+C:\Users\grsouza\Documents\Modelos\NetCore\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.runtimeconfig.dev.json
+C:\Users\grsouza\Documents\Modelos\NetCore\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.dll
+C:\Users\grsouza\Documents\Modelos\NetCore\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.pdb
+C:\Users\grsouza\Documents\Modelos\NetCore\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.csprojAssemblyReference.cache
+C:\Users\grsouza\Documents\Modelos\NetCore\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.AssemblyInfoInputs.cache
+C:\Users\grsouza\Documents\Modelos\NetCore\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.AssemblyInfo.cs
+C:\Users\grsouza\Documents\Modelos\NetCore\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.dll
+C:\Users\grsouza\Documents\Modelos\NetCore\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.pdb
